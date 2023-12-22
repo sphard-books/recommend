@@ -10,4 +10,4 @@ test-ipv6 官网: [https://test-ipv6.com](https://test-ipv6.com)
 test-ipv6 中文官网: [https://test-ipv6.com/index.html.zh_CN](https://test-ipv6.com/index.html.zh_CN)
 ![test-ipv6](https://i.imgur.com/MthwLIO.png)
 
-<a href="https://www.vultr.com/?ref=8948199-8H"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90" /></a>
+<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>

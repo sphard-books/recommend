@@ -11,4 +11,4 @@ SnapSave 官网: https://snapsave.io
 
 总会时不时的有人问我怎样下载 YouTube 视频，今天我就来给大家推荐一下这个神器。
 
-<a href="https://www.vultr.com/?ref=8948199-8H"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90" /></a>
+<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>

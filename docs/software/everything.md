@@ -1,4 +1,4 @@
-#  Everything
+# Everything
 
 ## Windows 下快速搜索神器
 
@@ -14,4 +14,4 @@ Everything 官网: [https://www.voidtools.com](https://www.voidtools.com)
 ![Everything](https://i.imgur.com/ISnQoMH.png)
 ![Everything](https://i.imgur.com/ntD7C8E.png)
 
-<a href="https://www.vultr.com/?ref=8948199-8H"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90" /></a>
+<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>

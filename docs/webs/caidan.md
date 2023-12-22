@@ -1,4 +1,4 @@
-# B站彩蛋
+# B 站彩蛋
 
 # B 站网页版彩蛋，反转网页
 
@@ -13,4 +13,4 @@
 
 ![B站彩蛋ilidilid](../images/ilidilid.png)
 
-<a href="https://www.vultr.com/?ref=8948199-8H"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90" /></a>
+<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>

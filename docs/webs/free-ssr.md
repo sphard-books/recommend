@@ -6,4 +6,4 @@
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/hqjDLfr2tJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://www.vultr.com/?ref=8948199-8H"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90" /></a>
+<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>

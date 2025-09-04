@@ -8,4 +8,4 @@
 
 云呼：https://www.kkk650.com
 
-<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>
+<a href="https://www.vultr.com/?ref=9634529-9J">![](../images/banner_1.png)</a>

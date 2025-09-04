@@ -9,4 +9,4 @@ submarinecablemap 官网: [https://www.submarinecablemap.com](https://www.submar
 ![submarinecablemap](https://i.imgur.com/Xp0dFz2.png)
 这个网站非常直观清楚的展示了全球海底光缆分布图，非常值得收藏。
 
-<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>
+<a href="https://www.vultr.com/?ref=9634529-9J">![](../images/banner_1.png)</a>

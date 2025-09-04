@@ -10,4 +10,4 @@
 ![jsmind2](https://i.imgur.com/aW8Jdnx.png)
 这款软件非常的简洁，也没有广告。如果你和我一样不想下载很大的软件，也不需要用到太多复杂的功能，那么这款在线思维导图软件就非常适合你。
 
-<a href="https://www.vultr.com/?ref=8948199-8H">![](../images/banner_1.png)</a>
+<a href="https://www.vultr.com/?ref=9634529-9J">![](../images/banner_1.png)</a>

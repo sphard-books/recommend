@@ -8,26 +8,24 @@
 临时邮箱应运而生，在注册这些不重要的服务时使用临时邮箱作为替身是个很好的选择。<br />
 临时邮箱具有匿名性，能有效减少垃圾邮件。
 
-https://temp-mail.org/zh
+https://temp-mail.org
 
-https://www.mohmal.com/zh
+https://www.mohmal.com/en
 
 https://10minutemail.net
 
-https://www.yinsiduanxin.com/mail.html
-
-https://bccto.me
-
-https://www.guerrillamail.com/zh
+https://www.guerrillamail.com
 
 http://mailcatch.com
 
 https://10minutemail.com
 
-http://www.yopmail.com/zh
+http://www.yopmail.com
 
 https://9em.org
 
-http://0x5f3759df.cn
+https://temporarymail.cc
+
+https://smail.pw
 
 <a href="https://www.vultr.com/?ref=9634529-9J">![](../images/banner_1.png)</a>

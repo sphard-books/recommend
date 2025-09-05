@@ -52,4 +52,6 @@
 
 21、we39：https://www.we39.cn
 
+22、sms activate：https://sms-activate.io
+
 <a href="https://www.vultr.com/?ref=9634529-9J">![](../images/banner_1.png)</a>

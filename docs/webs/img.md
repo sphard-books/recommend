@@ -29,6 +29,8 @@
 
 12、有图有金币：https://youjb.com
 
+13、SaveYourImages：https://saveyourimages.com
+
 需要登录的图床：
 
 1、imgur：https://imgur.com
